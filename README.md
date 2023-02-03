@@ -48,6 +48,11 @@ It also features 3D Blender models!
 
 ![level3](https://user-images.githubusercontent.com/103140108/216699134-0dcf92aa-2171-4948-b650-1ae320e85a38.png)
 
+Oh, by the way. This level is not only a bit glitchy in some way, but also is the only one that features more than one checkpoint.
+In any level, open up the Pause Menu and click "Checkpoint" to return to the last checkpoint.
+
+![pause-menu](https://user-images.githubusercontent.com/103140108/216701857-8981259e-b087-4cc2-a7ea-691ce1c40a0d.png)
+
 
 ### Level 4
 Whoops... it seems like someone's angry.
